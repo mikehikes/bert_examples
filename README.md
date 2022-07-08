@@ -1,4 +1,4 @@
-# Interesting experiments
+#  Python notebook with examples on using the BERT NLP model
 
 ## bert_tpu_tweet_model.ipynb
 *This notebook is designed to run in Google Colab*
